@@ -19,9 +19,9 @@ A high-end car showroom sales analysis project to empower Steve with data-driven
 - Top seller by volume (2023) & revenue (2022)
 
 ## Files
-- `schema.png` – ER Diagram  
-- `analysis.sql` – SQL queries  
-- `insights.md` – Summary report
+- `Car Showroom Schema.sql` – Database  
+- `SQL query and output` – SQL queries & Output
+- `README.md` – Summary 
 
 ## Tech Stack
 - SQL  
