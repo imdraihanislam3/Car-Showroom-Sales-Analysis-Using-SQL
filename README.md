@@ -37,6 +37,9 @@ Here are the tables I’ve Used,
 10.What is the name and age of the salesperson who generated the highest revenue in the year 2022?
 
 
+   
+
+
 
 
 
