@@ -1,6 +1,6 @@
 
 # Car Showroom Sales Analysis
-
+<img width="1266" height="678" alt="image" src="https://github.com/user-attachments/assets/897de8a7-dda1-45ab-b867-735bf1e0c81e" />
 
 
 ## Overview
